@@ -1,0 +1,108 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "GeneralData/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/GeneralData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GeneralData.dll": {}
+        }
+      },
+      "Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GeneralData/1.0.0": {
+      "type": "project",
+      "path": "../GeneralData/GeneralData.csproj",
+      "msbuildProject": "../GeneralData/GeneralData.csproj"
+    },
+    "Models/1.0.0": {
+      "type": "project",
+      "path": "../../Lab1.LINQ/Models/Models.csproj",
+      "msbuildProject": "../../Lab1.LINQ/Models/Models.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "GeneralData >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Yana\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\лабиПрога3сем\\Lab2.LINQtoXML\\Lab2.LINQtoXML\\Lab2.LINQtoXML.csproj",
+      "projectName": "Lab2.LINQtoXML",
+      "projectPath": "D:\\лабиПрога3сем\\Lab2.LINQtoXML\\Lab2.LINQtoXML\\Lab2.LINQtoXML.csproj",
+      "packagesPath": "C:\\Users\\Yana\\.nuget\\packages\\",
+      "outputPath": "D:\\лабиПрога3сем\\Lab2.LINQtoXML\\Lab2.LINQtoXML\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Yana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "D:\\лабиПрога3сем\\Lab2.LINQtoXML\\GeneralData\\GeneralData.csproj": {
+              "projectPath": "D:\\лабиПрога3сем\\Lab2.LINQtoXML\\GeneralData\\GeneralData.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

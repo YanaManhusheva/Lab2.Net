@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<projects>
+  <project>
+    <code>FN4-T8</code>
+    <name>New KPI</name>
+    <projectCost>100000</projectCost>
+    <startDate>26.07.1994 0:00:00</startDate>
+    <endDate>14.01.2003 0:00:00</endDate>
+    <owners>
+      <owner>
+        <name>Valentyn</name>
+        <surname>Strukalo</surname>
+        <project>
+          <code>FN4-T8</code>
+          <name>New KPI</name>
+          <projectCost>100000</projectCost>
+          <startDate>26.07.1994 0:00:00</startDate>
+          <endDate>14.01.2003 0:00:00</endDate>
+        </project>
+      </owner>
+      <owner>
+        <name>Mikhail</name>
+        <surname>Zgurovsky</surname>
+        <project>
+          <code>FN4-T8</code>
+          <name>New KPI</name>
+          <projectCost>100000</projectCost>
+          <startDate>26.07.1994 0:00:00</startDate>
+          <endDate>14.01.2003 0:00:00</endDate>
+        </project>
+      </owner>
+    </owners>
+  </project>
+  <project>
+    <code>PP03</code>
+    <name>Save the planet</name>
+    <projectCost>340000</projectCost>
+    <startDate>15.04.2012 0:00:00</startDate>
+    <endDate>23.12.2021 0:00:00</endDate>
+    <owners>
+      <owner>
+        <name>Oksana</name>
+        <surname>Zachemenko</surname>
+        <project>
+          <code>PP03</code>
+          <name>Save the planet</name>
+          <projectCost>340000</projectCost>
+          <startDate>15.04.2012 0:00:00</startDate>
+          <endDate>23.12.2021 0:00:00</endDate>
+        </project>
+      </owner>
+    </owners>
+  </project>
+  <project>
+    <code>2345-A3-2345-11KBЗ</code>
+    <name>Aerospace Engineering and Digital Innovation Centre’ in India</name>
+    <projectCost>550000</projectCost>
+    <startDate>10.03.1999 0:00:00</startDate>
+    <endDate>20.01.2025 0:00:00</endDate>
+    <owners>
+      <owner>
+        <name>Lena</name>
+        <surname>Nedilko</surname>
+        <project>
+          <code>2345-A3-2345-11KBЗ</code>
+          <name>Aerospace Engineering and Digital Innovation Centre’ in India</name>
+          <projectCost>550000</projectCost>
+          <startDate>10.03.1999 0:00:00</startDate>
+          <endDate>20.01.2025 0:00:00</endDate>
+        </project>
+      </owner>
+      <owner>
+        <name>Oliver</name>
+        <surname>Schwarz</surname>
+        <project>
+          <code>2345-A3-2345-11KBЗ</code>
+          <name>Aerospace Engineering and Digital Innovation Centre’ in India</name>
+          <projectCost>550000</projectCost>
+          <startDate>10.03.1999 0:00:00</startDate>
+          <endDate>20.01.2025 0:00:00</endDate>
+        </project>
+      </owner>
+    </owners>
+  </project>
+  <project>
+    <code>WPI.2.4-4:2022</code>
+    <name>Living Lab Ecosystem in Melbourne</name>
+    <projectCost>1800000</projectCost>
+    <startDate>20.03.2022 0:00:00</startDate>
+    <endDate>19.08.2030 0:00:00</endDate>
+    <owners>
+      <owner>
+        <name>Lana</name>
+        <surname>del Ray</surname>
+        <project>
+          <code>WPI.2.4-4:2022</code>
+          <name>Living Lab Ecosystem in Melbourne</name>
+          <projectCost>1800000</projectCost>
+          <startDate>20.03.2022 0:00:00</startDate>
+          <endDate>19.08.2030 0:00:00</endDate>
+        </project>
+      </owner>
+    </owners>
+  </project>
+</projects>
